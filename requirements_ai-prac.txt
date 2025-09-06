@@ -1,0 +1,18 @@
+# Typical ML libraries.
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# NLP.
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch==2.7.0
+torchvision==0.22.0
+torchaudio==2.7.0
+
+transformers
+accelerate
+protobuf
+tiktoken
+sentencepiece
+hf_xet
